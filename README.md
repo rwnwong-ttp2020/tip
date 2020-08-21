@@ -30,6 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://drive.google.com/file/d/1b4ELZLb88PPg5moADnZSIv1XrbWRPcWj/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+GIF created with [](https://drive.google.com/file/d/1b4ELZLb88PPg5moADnZSIv1XrbWRPcWj/view?usp=sharing).
+
 GIF created with Quicktime.
 
 ## Notes
