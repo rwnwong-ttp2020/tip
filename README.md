@@ -27,8 +27,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-[Video Walkthrough]('https://drive.google.com/file/d/1b4ELZLb88PPg5moADnZSIv1XrbWRPcWj/view?usp=sharing')
+[![alt text](http://example.com/exampl.png)](http://example.com/link "title")
+[![Video Walkthrough]](https://drive.google.com/file/d/1b4ELZLb88PPg5moADnZSIv1XrbWRPcWj/view?usp=sharing "Video Walkthrough")
 
 MOV created with Quicktime.
 
